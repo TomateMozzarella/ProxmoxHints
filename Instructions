@@ -1,6 +1,6 @@
 These are pictures for your Proxmox Notes (LXC/VM).
 
-You can add them with following syntax:
+You can add them with following example code:
 
 <div align='center'>
     <a href='https://hub.docker.com'>
